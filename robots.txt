@@ -1,4 +1,4 @@
-# Will Barbershop — willbarbershoprva.com
+# Will Barbershop — will-barbershop-site-preview.netlify.app
 User-agent: *
 Allow: /
 
@@ -20,4 +20,4 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://willbarbershoprva.com/sitemap.xml
+Sitemap: https://will-barbershop-site-preview.netlify.app/sitemap.xml

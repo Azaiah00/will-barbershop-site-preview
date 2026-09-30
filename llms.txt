@@ -7,7 +7,7 @@
 - Barber / owner: Wilmer "Will" Montilla
 - Address: 904 W Leigh St, Richmond, VA 23220 (a few blocks from VCU, Carver / Jackson Ward area)
 - Phone and text: (804) 909-9210
-- Website: https://willbarbershoprva.com/ (Spanish: https://willbarbershoprva.com/es/)
+- Website: https://will-barbershop-site-preview.netlify.app/ (Spanish: https://will-barbershop-site-preview.netlify.app/es/)
 
 ## Hours
 - Open 7 days a week, 9:00 AM - 8:00 PM
@@ -53,8 +53,8 @@
 - Are you hiring? Yes, the shop has posted openings for barbers ("Vacantes disponibles"). Call (804) 909-9210.
 
 ## Pages
-- Home: https://willbarbershoprva.com/
-- Services and prices: https://willbarbershoprva.com/services.html
-- Gallery: https://willbarbershoprva.com/gallery.html
-- Hours, directions and hiring: https://willbarbershoprva.com/visit.html
-- Spanish version: https://willbarbershoprva.com/es/
+- Home: https://will-barbershop-site-preview.netlify.app/
+- Services and prices: https://will-barbershop-site-preview.netlify.app/services.html
+- Gallery: https://will-barbershop-site-preview.netlify.app/gallery.html
+- Hours, directions and hiring: https://will-barbershop-site-preview.netlify.app/visit.html
+- Spanish version: https://will-barbershop-site-preview.netlify.app/es/

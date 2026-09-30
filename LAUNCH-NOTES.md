@@ -34,7 +34,7 @@ Everything below needs a quick yes/no from Will before launch. The site shows ea
 - [ ] **Lantern** booking link (secondary) is only in JSON-LD `sameAs` and llms.txt. Keep it or drop it.
 - [ ] **Email**: none is published. Add one to the footer, the JSON-LD `email` and llms.txt if Will wants it.
 - [ ] **Logo**: header, footer, icons and schema use the "WILL BARBER" emblem supplied by Couture House (assets/img/will-barber-logo.png, transparent). Confirm Will approves it and ask for his original vector file for print.
-- [ ] **og.jpg**: regenerate if the hero photo changes.
+- [ ] **share.jpg**: regenerate if the hero photo changes.
 - [ ] Update `sitemap.xml` `<lastmod>` on launch day.
 
 ## 4. Technical notes
@@ -45,3 +45,7 @@ Everything below needs a quick yes/no from Will before launch. The site shows ea
 
 ## 5. Proposed domain
 **willbarbershoprva.com**. Register it (plus willbarber.com / willbarbershop.com if they're available and cheap). Every canonical, hreflang, Open Graph, sitemap and JSON-LD URL already uses `https://willbarbershoprva.com/`.
+
+## Live preview domain (updated 28 Sep 2026)
+The site is live at https://will-barbershop-site-preview.netlify.app/ and every canonical URL, Open Graph/Twitter tag, hreflang, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this exact address.
+When the owner's own domain (willbarbershoprva.com) is connected in Netlify, find-and-replace `will-barbershop-site-preview.netlify.app` with `willbarbershoprva.com` across the .html/.xml/.txt/.toml/.webmanifest files, then redeploy.

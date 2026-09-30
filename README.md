@@ -22,7 +22,7 @@ assets/css/fonts.css   self-hosted @font-face (Anton, Playfair Display italic, I
 assets/css/site.css    the single site stylesheet
 assets/js/site.js      menu, barber-pole progress bar, hex-ceiling glow, razor/blur reveals, gallery filter + lightbox
 assets/fonts/          woff2 files (latin subset)
-assets/img/            optimized .webp photos (+ -800 versions), og.jpg, favicons, PWA icons
+assets/img/            optimized .webp photos (+ -800 versions), share.jpg, favicons, PWA icons
 ```
 
 ## Preview locally
